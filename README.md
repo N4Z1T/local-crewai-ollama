@@ -33,8 +33,8 @@ Before running the project, ensure you have:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/username/repo-name.git](https://github.com/username/repo-name.git)
-    cd repo-name
+    git clone https://github.com/N4Z1T/local-crewai-ollama.git
+    cd local-crewai-ollama
     ```
 
 2.  **Create a Virtual Environment:**
